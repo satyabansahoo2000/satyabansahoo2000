@@ -9,6 +9,8 @@
 
 [![Contribute to Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github&style=for-the-badge)](https://github.com/satyabansahoo2000/)
 
+![Profile](https://github.com/satyabansahoo2000/satyabansahoo2000/blob/main/Satyaban%20Sahoo.gif)
+
 ## I'm a Developer and ML researcher!!
 
 - 🌱 I’m currently learning Cloud Services(AWS, GCP)
