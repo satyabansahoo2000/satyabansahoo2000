@@ -43,7 +43,7 @@
 
 [<img align="left" alt="dev.to | dev.to" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev.to]
 
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][dev.to]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
 
 <br />
 
