@@ -9,7 +9,7 @@
 
 [![Contribute to Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github&style=for-the-badge)](https://github.com/satyabansahoo2000/)
 
-![Profile](https://github.com/satyabansahoo2000/satyabansahoo2000/blob/main/Satyaban%20Sahoo.gif)
+<a href="https://app.daily.dev/satyaban2000"><img src="https://api.daily.dev/devcards/c4896af5b614490eabbc0cc0feb80dce.png?r=ztr" width="300" alt="Satyaban Sahoo's Dev Card"/></a>
 
 ## I'm a Developer and ML researcher!!
 
