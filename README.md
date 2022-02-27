@@ -9,21 +9,42 @@
 
 ## I'm a Developer and ML researcher!!
 
-- 🌱 I’m currently learning Cloud Services(AWS, GCP)
+- 🌱 I’m currently learning Cloud Services (AWS, GCP) and DevOps
 - 🔭 I’m currently working on Cloud Native Application
 - 👯 I’m looking to collaborate on projects based on AI, Cloud-Based Application
 - 🤔 I’m looking for help with experts on Machine Learning, Cloud Services
-- 🥅 2021 Goals: Contribute more to Open Source projects, help the community
+- 🥅 2022 Goals: Contribute more to Open Source projects, help the community
 - 💬 Ask me about Data Science, Machine Learning and Memes 😂
 - ⚡ Fun Fact: To Code:computer: | football:soccer:
 
 ### Languages and Tools:
 
-| Python | R | Julia | C++ | Go | VS Code | AWS | Git | GitHub | MySQL | MongoDB | Terminal |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <img height="32px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="32px" src=https://cdn.svgporn.com/logos/r-lang.svg> | <img height="32px" src=https://cdn.svgporn.com/logos/julia.svg> | <img height="32px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/gopher.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/aws.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/github-octocat.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/mongodb.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg"> |
+#### Programming Languages:
+
+| Python | R | Julia | C++ | Go | Rust |
+| --- | --- | --- | --- | --- | --- |
+| <img height="32px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="32px" src=https://cdn.svgporn.com/logos/r-lang.svg> | <img height="32px" src=https://cdn.svgporn.com/logos/julia.svg> | <img height="32px" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/gopher.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/rust.svg"> | |
+
+#### Databases:
+
+| MySQL | MongoDB | PostgreSQL
+| --- | --- | --- |
+| <img height="32px" src="https://cdn.svgporn.com/logos/mysql.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/mongodb.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/postgresql.svg"> |
+
+#### Amazon Web Services (AWS):
+| EC2 | S3 | DynamoDB | IAM | ECS | EKS | Lambda | 
+| --- | --- | --- | --- | --- | --- | --- |
+| <img height="32px" src="https://cdn.svgporn.com/logos/aws-ec2.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/aws-s3.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/aws-dynamodb.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/aws-iam.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/aws-ecs.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/aws-eks.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/aws-lambda.svg"> |
+
+#### Tools:
+
+| VS Code | Git | GitHub | Terminal |
+| --- | --- | --- | --- |
+<img height="32px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/git-icon.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/github-octocat.svg"> | <img height="32px" src="https://cdn.svgporn.com/logos/terminal.svg">
 
 ---
+
+## Daily Dev Card
 
 <center><a href="https://app.daily.dev/satyaban2000"><img src="https://api.daily.dev/devcards/c4896af5b614490eabbc0cc0feb80dce.png?r=ztr" width="300" alt="Satyaban Sahoo's Dev Card"/></a></center>
 
@@ -53,4 +74,4 @@
 [instagram]: https://instagram.com/satyabansahoo2000
 [linkedin]: https://linkedin.com/in/satyabansahoo2000
 [dev.to]: https://app.daily.dev/satyaban2000
-[twitter]: https://twitter.com/satyaban_sahoo5
+[twitter]: https://twitter.com/HemrajSahoo
