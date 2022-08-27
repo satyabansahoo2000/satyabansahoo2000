@@ -74,4 +74,4 @@
 [instagram]: https://instagram.com/satyabansahoo2000
 [linkedin]: https://linkedin.com/in/satyabansahoo2000
 [dev.to]: https://app.daily.dev/satyaban2000
-[twitter]: https://twitter.com/HemrajSahoo
+[twitter]: https://twitter.com/Hemraj__Sahoo
